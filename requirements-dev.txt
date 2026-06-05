@@ -1,0 +1,2 @@
+# Development dependencies only. The app itself needs nothing beyond the stdlib.
+pytest>=7
