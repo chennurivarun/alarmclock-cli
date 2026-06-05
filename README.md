@@ -1,5 +1,7 @@
 # ⏰ alarmclock
 
+[![CI](https://github.com/chennurivarun/alarmclock-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/chennurivarun/alarmclock-cli/actions/workflows/ci.yml)
+
 A small, dependency-free **command-line alarm clock** in Python.
 
 Set named one-time and recurring alarms, then run a foreground watcher that rings
